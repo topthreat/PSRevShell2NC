@@ -58,7 +58,7 @@ Note: If needed, click `Allow Access` to allow netcat to communicate on private 
 ### Hooking Up 🎯
 To access the listener you will need to use a reverse shell. This will allow the host🏠 to remotely send commands to your target🎯. 
 - Open PowerShell on the Target 🎯 system.
-- Execute the `ReverseShell.ps1` file
+- Execute the `ReverseShell.ps1` file (This file was created for you when the setupTarget.ps1 script was used. It will be on your desktop)
 - When prompted, enter the discovered Host 🏠 IP address and port (4444) 
 
 ### Taking Control 💪
